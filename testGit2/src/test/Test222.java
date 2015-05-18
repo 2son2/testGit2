@@ -10,6 +10,10 @@ public class Test222 {
 		System.out.println("second test");
 		System.out.println("second test");
 		
+		System.out.println("second test");
+		System.out.println("second test");
+		System.out.println("second test");
+		
 	}
 
 }
